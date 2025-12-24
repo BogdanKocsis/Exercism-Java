@@ -1,24 +1,26 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.rb linguist-language=Java
+# Keep only Java source files in GitHub language stats
+*.java linguist-detectable=true
 
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
-
-# Language names are case-insensitive and may be specified using an alias.
-# So, the following three lines are all functionally equivalent:
-*.es linguist-language=java
-*.es linguist-language=JAVA
-*.es linguist-language=JAVA
-
-# Exclude non-source files from language statistics
+# Exclude common non-Java files
 *.md linguist-detectable=false
+*.txt linguist-detectable=false
 *.yml linguist-detectable=false
 *.yaml linguist-detectable=false
 *.json linguist-detectable=false
 *.xml linguist-detectable=false
-*.gradle linguist-detectable=false
 *.properties linguist-detectable=false
-*.txt linguist-detectable=false
+*.gradle linguist-detectable=false
+*.kts linguist-detectable=false
+*.bat linguist-detectable=false
+*.sh linguist-detectable=false
 
-# Optionally exclude tests
-# **/test/** linguist-detectable=false
+# Exclude generated/build folders
+build/** linguist-detectable=false
+out/** linguist-detectable=false
+.gradle/** linguist-detectable=false
+target/** linguist-detectable=false
+
+# If you have IDE files
+.idea/** linguist-detectable=false
+.vscode/** linguist-detectable=false
+*.iml linguist-detectable=false
