@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EliudsEggsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-15T10:13:30" hostname="ENDAUTOEFRLSBQC" time="0.064">
+  <properties/>
+  <testcase name="0 eggs" classname="EliudsEggsTest" time="0.056"/>
+  <testcase name="4 eggs" classname="EliudsEggsTest" time="0.001"/>
+  <testcase name="1 egg" classname="EliudsEggsTest" time="0.001"/>
+  <testcase name="13 eggs" classname="EliudsEggsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

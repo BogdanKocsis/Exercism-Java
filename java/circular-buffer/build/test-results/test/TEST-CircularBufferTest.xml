@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CircularBufferTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-12-24T08:13:53.214Z" hostname="ENDAUTOEFRLSBQC" time="0.136">
+  <properties/>
+  <testcase name="full buffer can't be written to" classname="CircularBufferTest" time="0.094"/>
+  <testcase name="overwrite acts like write on non-full buffer" classname="CircularBufferTest" time="0.004"/>
+  <testcase name="clear does nothing on empty buffer" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="read position is maintained even across multiple writes" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="overwrite replaces the oldest item on full buffer" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="each item may only be read once" classname="CircularBufferTest" time="0.003"/>
+  <testcase name="a read frees up capacity for another write" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="can read an item just written" classname="CircularBufferTest" time="0.002"/>
+  <testcase name="items are read in the order they are written" classname="CircularBufferTest" time="0.002"/>
+  <testcase name="initial clear does not affect wrapping around" classname="CircularBufferTest" time="0.002"/>
+  <testcase name="clear frees up capacity for another write" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="overwrite replaces the oldest item remaining in buffer following a read" classname="CircularBufferTest" time="0.001"/>
+  <testcase name="items cleared out of buffer can't be read" classname="CircularBufferTest" time="0.002"/>
+  <testcase name="reading empty buffer should fail" classname="CircularBufferTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

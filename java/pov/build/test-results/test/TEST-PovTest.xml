@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PovTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:33:58.138Z" hostname="ENDAUTOEFRLSBQC" time="0.091">
+  <properties/>
+  <testcase name="testPathToCanFindPathToSibling()" classname="PovTest" time="0.059"/>
+  <testcase name="Errors if source does not exist" classname="PovTest" time="0.005"/>
+  <testcase name="an reroot a tree with new root deeply nested in the tree" classname="PovTest" time="0.0"/>
+  <testcase name="Can find path from nodes other than x" classname="PovTest" time="0.002"/>
+  <testcase name="Can reroot a tree with a parent and one sibling" classname="PovTest" time="0.0"/>
+  <testcase name="Errors if target does not exist in a larger tree" classname="PovTest" time="0.002"/>
+  <testcase name="Can find path to cousin" classname="PovTest" time="0.001"/>
+  <testcase name="Can reroot a tree with a parent and many siblings" classname="PovTest" time="0.001"/>
+  <testcase name="Can find path to parent" classname="PovTest" time="0.0"/>
+  <testcase name="Errors if target does not exist in a singleton tree" classname="PovTest" time="0.001"/>
+  <testcase name="Can find path not involving root" classname="PovTest" time="0.001"/>
+  <testcase name="Can reroot a complex tree with cousins" classname="PovTest" time="0.001"/>
+  <testcase name="Errors if destination does not exist" classname="PovTest" time="0.001"/>
+  <testcase name="Moves children of the new root to same level as former parent" classname="PovTest" time="0.001"/>
+  <testcase name="Results in the same tree if the input tree is a singleton" classname="PovTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

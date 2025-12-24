@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KindergartenGardenTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-11-19T14:15:31" hostname="ENDAUTOEFRLSBQC" time="0.097">
+  <properties/>
+  <testcase name="for Harriet" classname="KindergartenGardenTest" time="0.062"/>
+  <testcase name="different garden with single student" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Charlie" classname="KindergartenGardenTest" time="0.0"/>
+  <testcase name="for Fred" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="garden with two students" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="garden with single student" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Ileana" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Alice, first student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Joseph" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for David" classname="KindergartenGardenTest" time="0.002"/>
+  <testcase name="for Ginny" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Larry, last student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="third student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Kincaid, second to last student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="second student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Bob, second student's garden" classname="KindergartenGardenTest" time="0.001"/>
+  <testcase name="for Eve" classname="KindergartenGardenTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

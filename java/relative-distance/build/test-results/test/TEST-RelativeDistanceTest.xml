@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RelativeDistanceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-11-20T11:58:05" hostname="ENDAUTOEFRLSBQC" time="0.075">
+  <properties/>
+  <testcase name="Sibling relationship" classname="RelativeDistanceTest" time="0.057"/>
+  <testcase name="Direct parent-child relation" classname="RelativeDistanceTest" time="0.001"/>
+  <testcase name="Complex graph, cousins" classname="RelativeDistanceTest" time="0.001"/>
+  <testcase name="Unrelated individuals" classname="RelativeDistanceTest" time="0.002"/>
+  <testcase name="Two degrees of separation, grandchild" classname="RelativeDistanceTest" time="0.002"/>
+  <testcase name="Complex graph, no shortcut, far removed nephew" classname="RelativeDistanceTest" time="0.002"/>
+  <testcase name="Complex graph, some shortcuts, cross-down and cross-up, cousins several times removed, with unrelated family tree" classname="RelativeDistanceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

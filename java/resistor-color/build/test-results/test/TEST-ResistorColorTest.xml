@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-15T06:35:43" hostname="ENDAUTOEFRLSBQC" time="0.077">
+  <properties/>
+  <testcase name="white" classname="ResistorColorTest" time="0.059"/>
+  <testcase name="Colors" classname="ResistorColorTest" time="0.012"/>
+  <testcase name="Black" classname="ResistorColorTest" time="0.002"/>
+  <testcase name="Orange" classname="ResistorColorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

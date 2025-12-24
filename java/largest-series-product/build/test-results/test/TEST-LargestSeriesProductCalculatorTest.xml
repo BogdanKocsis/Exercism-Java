@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LargestSeriesProductCalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-11-18T07:25:56" hostname="ENDAUTOEFRLSBQC" time="0.084">
+  <properties/>
+  <testcase name="can find the largest product of 3" classname="LargestSeriesProductCalculatorTest" time="0.053"/>
+  <testcase name="integer overflow" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="reports zero if the only digits are zero" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="can get the largest product of a big number" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="rejects span longer than string length" classname="LargestSeriesProductCalculatorTest" time="0.007"/>
+  <testcase name="can find the largest product of 3 with numbers in order" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="reports zero if all spans include zero" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="rejects negative span" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="finds the largest product if span equals length" classname="LargestSeriesProductCalculatorTest" time="0.0"/>
+  <testcase name="can find the largest product of 2 with numbers in order" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="reports 1 for empty string and empty product (0 span)" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="rejects invalid character in digits" classname="LargestSeriesProductCalculatorTest" time="0.002"/>
+  <testcase name="can find the largest product of 5 with numbers in order" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="can find the largest product of 2" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrepToolTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2025-11-20T11:09:59" hostname="ENDAUTOEFRLSBQC" time="0.331">
+  <properties/>
+  <testcase name="Multiple files, no matches, various flags" classname="GrepToolTest" time="0.102"/>
+  <testcase name="Multiple files, several matches, no flags" classname="GrepToolTest" time="0.014"/>
+  <testcase name="Multiple files, several matches, inverted flag" classname="GrepToolTest" time="0.01"/>
+  <testcase name="Multiple files, several matches, print line numbers flag" classname="GrepToolTest" time="0.014"/>
+  <testcase name="Multiple files, several matches, inverted and match entire lines flags" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, one match, multiple flags" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, several matches, match entire lines flag" classname="GrepToolTest" time="0.008"/>
+  <testcase name="One file, one match, case-insensitive flag" classname="GrepToolTest" time="0.008"/>
+  <testcase name="One file, one match, no flags" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, one match, print file names flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="Multiple files, one match, multiple flags" classname="GrepToolTest" time="0.012"/>
+  <testcase name="Multiple files, one match, match entire lines flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, one match, file flag takes precedence over line flag" classname="GrepToolTest" time="0.006"/>
+  <testcase name="One file, several matches, inverted and match entire lines flags" classname="GrepToolTest" time="0.007"/>
+  <testcase name="Multiple files, one match, print file names flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, several matches, case-insensitive flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="Multiple files, several matches, case-insensitive flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, several matches, print line numbers flag" classname="GrepToolTest" time="0.007"/>
+  <testcase name="One file, one match, match entire lines flag" classname="GrepToolTest" time="0.005"/>
+  <testcase name="Multiple files, several matches, file flag takes precedence over line number flag" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, several matches, inverted flag" classname="GrepToolTest" time="0.007"/>
+  <testcase name="One file, no matches, various flags" classname="GrepToolTest" time="0.006"/>
+  <testcase name="One file, several matches, no flags" classname="GrepToolTest" time="0.006"/>
+  <testcase name="Multiple files, one match, no flags" classname="GrepToolTest" time="0.009"/>
+  <testcase name="One file, one match, print line numbers flag" classname="GrepToolTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

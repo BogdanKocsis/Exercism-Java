@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpaceAgeTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-10-15T10:28:36" hostname="ENDAUTOEFRLSBQC" time="0.113">
+  <properties/>
+  <testcase name="age on Saturn" classname="SpaceAgeTest" time="0.084"/>
+  <testcase name="age on Uranus" classname="SpaceAgeTest" time="0.001"/>
+  <testcase name="age on Jupiter" classname="SpaceAgeTest" time="0.003"/>
+  <testcase name="age on Mercury" classname="SpaceAgeTest" time="0.002"/>
+  <testcase name="age on Earth" classname="SpaceAgeTest" time="0.001"/>
+  <testcase name="age on Venus" classname="SpaceAgeTest" time="0.001"/>
+  <testcase name="age on Mars" classname="SpaceAgeTest" time="0.003"/>
+  <testcase name="age on Neptune" classname="SpaceAgeTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

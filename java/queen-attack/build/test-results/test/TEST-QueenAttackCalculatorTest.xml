@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueenAttackCalculatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-11-20T13:58:08" hostname="ENDAUTOEFRLSBQC" time="0.088">
+  <properties/>
+  <testcase name="testNullPositionsNotAllowed()" classname="QueenAttackCalculatorTest" time="0.055"/>
+  <testcase name="queen must have column on board" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="cannot attack if falling diagonals are only the same when reflected across the longest falling diagonal" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="queen must have positive row" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="queen must have positive column" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="queen with a valid position" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="can attack on same column" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="queen must have row on board" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="can attack on third diagonal" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="can attack on second diagonal" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="can attack on same row" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="can attack on fourth diagonal" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="testQueensMustNotOccupyTheSameSquare()" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="can attack on first diagonal" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <testcase name="cannot attack" classname="QueenAttackCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

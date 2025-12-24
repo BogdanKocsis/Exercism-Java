@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleCipherTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:48:11.117Z" hostname="ENDAUTOEFRLSBQC" time="0.07">
+  <properties/>
+  <testcase name="Is reversible. I.e., if you apply decode in a encoded result, you must see the same plaintext encode parameter as a result of the decode method" classname="SimpleCipherTest" time="0.053"/>
+  <testcase name="Can decode" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Can encode" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Can double shift encode" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Key is made only of lowercase letters" classname="SimpleCipherTest" time="0.002"/>
+  <testcase name="Can decode" classname="SimpleCipherTest" time="0.0"/>
+  <testcase name="Can encode" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Can wrap on decode" classname="SimpleCipherTest" time="0.0"/>
+  <testcase name="Can wrap on encode" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Can decode messages longer than the key" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="Is reversible. I.e., if you apply decode in a encoded result, you must see the same plaintext encode parameter as a result of the decode method" classname="SimpleCipherTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

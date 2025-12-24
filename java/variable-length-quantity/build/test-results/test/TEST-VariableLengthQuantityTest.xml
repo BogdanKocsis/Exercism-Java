@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VariableLengthQuantityTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2025-11-20T10:31:12" hostname="ENDAUTOEFRLSBQC" time="0.123">
+  <properties/>
+  <testcase name="asymmetric triple byte" classname="VariableLengthQuantityTest" time="0.059"/>
+  <testcase name="asymmetric single byte" classname="VariableLengthQuantityTest" time="0.0"/>
+  <testcase name="largest double byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="largest triple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="largest single byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="arbitrary double byte" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="smallest double byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="arbitrary triple byte" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="smallest triple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="arbitrary single byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="asymmetric quadruple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="maximum 32-bit integer input" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="multiple values" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="two single-byte values" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="zero" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="four bytes" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="incomplete sequence causes error" classname="VariableLengthQuantityTest" time="0.006"/>
+  <testcase name="two bytes" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="many multi-byte values" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="two multi-byte values" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="asymmetric quintuple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="three bytes" classname="VariableLengthQuantityTest" time="0.0"/>
+  <testcase name="arbitrary quadruple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="smallest quadruple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="one byte" classname="VariableLengthQuantityTest" time="0.0"/>
+  <testcase name="incomplete sequence causes error, even if value is zero" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="largest quadruple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="maximum 32-bit integer" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="arbitrary quintuple byte" classname="VariableLengthQuantityTest" time="0.001"/>
+  <testcase name="smallest quintuple byte" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="asymmetric double byte" classname="VariableLengthQuantityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

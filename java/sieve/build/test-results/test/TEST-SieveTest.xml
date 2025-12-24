@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SieveTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-20T07:07:45" hostname="ENDAUTOEFRLSBQC" time="0.066">
+  <properties/>
+  <testcase name="find first prime" classname="SieveTest" time="0.056"/>
+  <testcase name="no primes under two" classname="SieveTest" time="0.001"/>
+  <testcase name="find primes up to 1000" classname="SieveTest" time="0.003"/>
+  <testcase name="limit is prime" classname="SieveTest" time="0.001"/>
+  <testcase name="find primes up to 10" classname="SieveTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

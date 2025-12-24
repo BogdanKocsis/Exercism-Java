@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AffineCipherTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-11-20T16:26:42" hostname="ENDAUTOEFRLSBQC" time="0.114">
+  <properties/>
+  <testcase name="encode OMG" classname="AffineCipherTest" time="0.072"/>
+  <testcase name="encode yes" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="decode with no spaces in input" classname="AffineCipherTest" time="0.002"/>
+  <testcase name="encode mindblowingly" classname="AffineCipherTest" time="0.002"/>
+  <testcase name="encode no" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="encode O M G" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="decode with too many spaces" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="decode a sentence" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="encode all the letters" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="decode numbers" classname="AffineCipherTest" time="0.002"/>
+  <testcase name="decode exercism" classname="AffineCipherTest" time="0.002"/>
+  <testcase name="encode deep thought" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="decode with a not coprime to m" classname="AffineCipherTest" time="0.006"/>
+  <testcase name="decode all the letters" classname="AffineCipherTest" time="0.002"/>
+  <testcase name="encode numbers" classname="AffineCipherTest" time="0.001"/>
+  <testcase name="encode with a not coprime to m" classname="AffineCipherTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

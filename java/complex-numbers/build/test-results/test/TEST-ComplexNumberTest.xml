@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComplexNumberTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2025-12-24T08:58:42.126Z" hostname="ENDAUTOEFRLSBQC" time="0.122">
+  <properties/>
+  <testcase name="Conjugate a number with real and imaginary part" classname="ComplexNumberTest" time="0.06"/>
+  <testcase name="Exponential of 0" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Conjugate a purely real number" classname="ComplexNumberTest" time="0.012"/>
+  <testcase name="Divide numbers with real and imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Add purely imaginary numbers" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Exponential of a purely real number" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Imaginary part of a number with real and imaginary part" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Absolute value of a positive purely real number" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Exponential resulting in a number with real and imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Multiply purely real numbers" classname="ComplexNumberTest" time="0.002"/>
+  <testcase name="Absolute value of a number with real and imaginary part" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Multiply purely imaginary numbers" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Real part of a purely real number" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Imaginary unit" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Divide purely real numbers" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Add numbers with real and imaginary part" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Absolute value of a negative purely real number" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Real part of a purely imaginary number" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Imaginary part of a purely real number" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Subtract numbers with real and imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Subtract purely imaginary numbers" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Conjugate a purely imaginary number" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Subtract purely real numbers" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Euler's identity/formula" classname="ComplexNumberTest" time="0.002"/>
+  <testcase name="Divide purely imaginary numbers" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Real part of a number with real and imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Absolute value of a purely imaginary number with positive imaginary part" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="Add purely real numbers" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Multiply numbers with real and imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Absolute value of a purely imaginary number with negative imaginary part" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="Imaginary part of a purely imaginary number" classname="ComplexNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwelveDaysTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-11-18T09:20:35" hostname="ENDAUTOEFRLSBQC" time="0.084">
+  <properties/>
+  <testcase name="eighth day eight maids-a-milking" classname="TwelveDaysTest" time="0.053"/>
+  <testcase name="seventh day seven swans-a-swimming" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="third day three french hens" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="first day a partridge in a pear tree" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="sixth day six geese-a-laying" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="tenth day ten lords-a-leaping" classname="TwelveDaysTest" time="0.002"/>
+  <testcase name="second day two turtle doves" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="fifth day five gold rings" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="fourth day four calling birds" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="ninth day nine ladies dancing" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="eleventh day eleven pipers piping" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="twelfth day twelve drummers drumming" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="recites first three verses of the song" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="recites the whole song" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="recites three verses from the middle of the song" classname="TwelveDaysTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SgfParsingTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:41:55.309Z" hostname="ENDAUTOEFRLSBQC" time="0.11">
+  <properties/>
+  <testcase name="escaped closing bracket within property value becomes just a closing bracket" classname="SgfParsingTest" time="0.061"/>
+  <testcase name="escaped t and n in property value are just letters, not whitespace" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="multiple properties" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="node without tree" classname="SgfParsingTest" time="0.006"/>
+  <testcase name="all lowercase property" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="empty input" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="parentheses in property value don't need to be escaped" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="node without properties" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="multiple property values" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="semicolon in property value doesn't need to be escaped" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="mixing various kinds of whitespace and escaped characters in property value" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="escaped tab in property value is converted to space" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="two child trees" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="escaped backslash in property value becomes just a backslash" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="upper and lowercase property" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="within property values, whitespace characters such as tab are converted to spaces" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="within property values, newlines remain as newlines" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="opening bracket within property value doesn't need to be escaped" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="single node tree" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="escaped newline in property value is converted to nothing at all" classname="SgfParsingTest" time="0.002"/>
+  <testcase name="two nodes" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="properties without delimiter" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="tree with no nodes" classname="SgfParsingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

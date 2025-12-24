@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeapTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-10-14T10:23:01" hostname="ENDAUTOEFRLSBQC" time="0.071">
+  <properties/>
+  <testcase name="year divisible by 100 but not by 3 is still not a leap year" classname="LeapTest" time="0.051"/>
+  <testcase name="year divisible by 2, not divisible by 4 in common year&quot;" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 400 is leap year" classname="LeapTest" time="0.001"/>
+  <testcase name="year not divisible by 4 in common year" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 4, not divisible by 100 in leap year" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 400 but not by 125 is still a leap year" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 100, not divisible by 400 in common year" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 200, not divisible by 400 in common year" classname="LeapTest" time="0.001"/>
+  <testcase name="year divisible by 4 and 5 is still a leap year" classname="LeapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

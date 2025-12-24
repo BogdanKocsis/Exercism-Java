@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScoreTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-10-15T11:27:52" hostname="ENDAUTOEFRLSBQC" time="0.078">
+  <properties/>
+  <testcase name="short, valuable word" classname="ScrabbleScoreTest" time="0.056"/>
+  <testcase name="entire alphabet available" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="uppercase letter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="long, mixed-case word" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="english-like word" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="valuable letter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="lowercase letter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="medium word" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="empty input" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="short word" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="medium, valuable word" classname="ScrabbleScoreTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

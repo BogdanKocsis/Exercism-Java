@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlphameticsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-11-20T12:58:00" hostname="ENDAUTOEFRLSBQC" time="2.419">
+  <properties/>
+  <testcase name="puzzle with four letters" classname="AlphameticsTest" time="0.084"/>
+  <testcase name="puzzle with seven letters" classname="AlphameticsTest" time="0.068"/>
+  <testcase name="puzzle with ten letters and 199 addends" classname="AlphameticsTest" time="1.697"/>
+  <testcase name="puzzle with three letters" classname="AlphameticsTest" time="0.002"/>
+  <testcase name="puzzle with two digits final carry" classname="AlphameticsTest" time="0.001"/>
+  <testcase name="puzzle with ten letters" classname="AlphameticsTest" time="0.321"/>
+  <testcase name="leading zero solution is invalid" classname="AlphameticsTest" time="0.01"/>
+  <testcase name="puzzle with eight letters" classname="AlphameticsTest" time="0.207"/>
+  <testcase name="solution must have unique value for each letter" classname="AlphameticsTest" time="0.002"/>
+  <testcase name="puzzle with six letters" classname="AlphameticsTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

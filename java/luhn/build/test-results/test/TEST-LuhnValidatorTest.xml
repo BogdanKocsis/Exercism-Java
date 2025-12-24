@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnValidatorTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2025-10-16T06:20:40" hostname="ENDAUTOEFRLSBQC" time="0.097">
+  <properties/>
+  <testcase name="a simple valid SIN that remains valid if reversed" classname="LuhnValidatorTest" time="0.05"/>
+  <testcase name="valid number with an odd number of spaces" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="a valid Canadian SIN" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="more than a single zero is valid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="a simple valid SIN that becomes invalid if reversed" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="valid luhn with an odd number of digits and non zero first digit" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="very long input is valid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="a single zero is invalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="invalid Canadian SIN" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="string containing symbols is invalid (Java track specific)" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="valid strings with punctuation included become invalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="using ascii value for non-doubled non-digit isn't allowed" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="valid strings with a non-digit added at the end become invalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="valid number with an even number of digits" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="input digit 9 is correctly converted to output digit 9" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="single zero with space is invalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="single digit strings can not be valid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="valid strings with symbols included become invalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="invalid credit card" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="using ascii value for doubled non-digit isn't allowed" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="invalid long number with an even remainder" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="invalid long number with a remainder divisible by 5" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="non-numeric, non-space char in the middle with a sum that's divisible by 10 isn't allowed" classname="LuhnValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

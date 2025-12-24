@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-11-20T12:18:37" hostname="ENDAUTOEFRLSBQC" time="0.14">
+  <properties/>
+  <testcase name="moving west and north" classname="RobotTest" time="0.084"/>
+  <testcase name="moving west and south" classname="RobotTest" time="0.001"/>
+  <testcase name="at negative position facing south" classname="RobotTest" time="0.002"/>
+  <testcase name="moving east and north" classname="RobotTest" time="0.006"/>
+  <testcase name="changes north to east" classname="RobotTest" time="0.001"/>
+  <testcase name="changes north to west" classname="RobotTest" time="0.002"/>
+  <testcase name="changes east to north" classname="RobotTest" time="0.002"/>
+  <testcase name="changes east to south" classname="RobotTest" time="0.001"/>
+  <testcase name="facing west decrements X" classname="RobotTest" time="0.001"/>
+  <testcase name="at origin facing north" classname="RobotTest" time="0.001"/>
+  <testcase name="facing south decrements Y" classname="RobotTest" time="0.001"/>
+  <testcase name="moving east and north from README" classname="RobotTest" time="0.001"/>
+  <testcase name="changes west to north" classname="RobotTest" time="0.002"/>
+  <testcase name="changes west to south" classname="RobotTest" time="0.001"/>
+  <testcase name="facing north increments Y" classname="RobotTest" time="0.001"/>
+  <testcase name="changes south to east" classname="RobotTest" time="0.001"/>
+  <testcase name="changes south to west" classname="RobotTest" time="0.001"/>
+  <testcase name="facing east increments X" classname="RobotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

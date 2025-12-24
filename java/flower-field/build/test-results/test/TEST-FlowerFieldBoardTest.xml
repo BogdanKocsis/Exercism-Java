@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlowerFieldBoardTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-11-20T16:34:28" hostname="ENDAUTOEFRLSBQC" time="0.083">
+  <properties/>
+  <testcase name="garden full of flowers" classname="FlowerFieldBoardTest" time="0.058"/>
+  <testcase name="no rows" classname="FlowerFieldBoardTest" time="0.002"/>
+  <testcase name="no flowers" classname="FlowerFieldBoardTest" time="0.0"/>
+  <testcase name="vertical line" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="cross" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="vertical line, flowers at edges" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="horizontal line, flowers at edges" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="space surrounded by flowers" classname="FlowerFieldBoardTest" time="0.002"/>
+  <testcase name="flower surrounded by spaces" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="no columns" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="horizontal line" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="large garden" classname="FlowerFieldBoardTest" time="0.001"/>
+  <testcase name="multiple adjacent flowers" classname="FlowerFieldBoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

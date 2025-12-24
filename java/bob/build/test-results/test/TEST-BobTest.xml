@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BobTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2025-11-18T11:23:15" hostname="ENDAUTOEFRLSBQC" time="0.101">
+  <properties/>
+  <testcase name="forceful question" classname="BobTest" time="0.052"/>
+  <testcase name="shouting with special characters" classname="BobTest" time="0.001"/>
+  <testcase name="stating something" classname="BobTest" time="0.001"/>
+  <testcase name="statement containing question mark" classname="BobTest" time="0.002"/>
+  <testcase name="non-letters with question" classname="BobTest" time="0.001"/>
+  <testcase name="non-question ending with whitespace" classname="BobTest" time="0.001"/>
+  <testcase name="asking a numeric question" classname="BobTest" time="0.001"/>
+  <testcase name="shouting with no exclamation mark" classname="BobTest" time="0.001"/>
+  <testcase name="ending with whitespace" classname="BobTest" time="0.002"/>
+  <testcase name="prolonged silence" classname="BobTest" time="0.001"/>
+  <testcase name="starting with whitespace" classname="BobTest" time="0.001"/>
+  <testcase name="alternate silence" classname="BobTest" time="0.002"/>
+  <testcase name="question with no letters" classname="BobTest" time="0.001"/>
+  <testcase name="talking forcefully" classname="BobTest" time="0.001"/>
+  <testcase name="multiple line question" classname="BobTest" time="0.001"/>
+  <testcase name="prattling on" classname="BobTest" time="0.001"/>
+  <testcase name="shouting" classname="BobTest" time="0.002"/>
+  <testcase name="asking a question" classname="BobTest" time="0.001"/>
+  <testcase name="other whitespace" classname="BobTest" time="0.0"/>
+  <testcase name="no letters" classname="BobTest" time="0.001"/>
+  <testcase name="shouting numbers" classname="BobTest" time="0.001"/>
+  <testcase name="shouting gibberish" classname="BobTest" time="0.001"/>
+  <testcase name="asking gibberish" classname="BobTest" time="0.0"/>
+  <testcase name="using acronyms in regular speech" classname="BobTest" time="0.001"/>
+  <testcase name="silence" classname="BobTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

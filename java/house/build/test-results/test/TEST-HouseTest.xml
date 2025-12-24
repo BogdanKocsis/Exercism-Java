@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HouseTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-11-19T08:27:55" hostname="ENDAUTOEFRLSBQC" time="0.088">
+  <properties/>
+  <testcase name="verse one - the house that jack built" classname="HouseTest" time="0.056"/>
+  <testcase name="verse six - the cow with the crumpled horn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse two - the malt that lay" classname="HouseTest" time="0.001"/>
+  <testcase name="verse five - the dog that worried" classname="HouseTest" time="0.002"/>
+  <testcase name="verse four - the cat that killed" classname="HouseTest" time="0.001"/>
+  <testcase name="verse nine - the priest all shaven and shorn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse eight - the man all tattered and torn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse seven - the maiden all forlorn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse three - the rat that ate" classname="HouseTest" time="0.001"/>
+  <testcase name="full rhyme" classname="HouseTest" time="0.004"/>
+  <testcase name="verse 10 - the rooster that crowed in the morn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse 11 - the farmer sowing his corn" classname="HouseTest" time="0.001"/>
+  <testcase name="verse 12 - the horse and the hound and the horn" classname="HouseTest" time="0.001"/>
+  <testcase name="multiple verses" classname="HouseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

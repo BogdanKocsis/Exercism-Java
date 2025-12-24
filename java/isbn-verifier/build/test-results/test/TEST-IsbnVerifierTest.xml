@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsbnVerifierTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-10-16T07:13:30" hostname="ENDAUTOEFRLSBQC" time="0.095">
+  <properties/>
+  <testcase name="isbn without check digit" classname="IsbnVerifierTest" time="0.051"/>
+  <testcase name="invalid character in isbn is not treated as zero" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalid characters are not ignored after checking length" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="empty isbn" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="valid isbn with a check digit of 10" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="too short isbn" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="check digit is a character other than X" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="too long isbn and no dashes" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="X is only valid as a check digit" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalid characters are not ignored before checking length" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="input is 9 characters" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="isbn without separating dashes and X as check digit" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="valid isbn" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="isbn without check digit and dashes" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalid check digit in isbn is not treated as zero" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="valid isbn without separating dashes" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="input is too long but contains a valid isbn" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="check digit of X should not be used for 0" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="valid isbn with check digit padded with letters is invalid" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="invalid isbn check digit" classname="IsbnVerifierTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

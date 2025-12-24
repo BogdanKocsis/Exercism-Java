@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-16T07:27:13" hostname="ENDAUTOEFRLSBQC" time="0.08">
+  <properties/>
+  <testcase name="there is no zeroth prime" classname="PrimeCalculatorTest" time="0.053"/>
+  <testcase name="sixth prime" classname="PrimeCalculatorTest" time="0.003"/>
+  <testcase name="first prime" classname="PrimeCalculatorTest" time="0.001"/>
+  <testcase name="second prime" classname="PrimeCalculatorTest" time="0.001"/>
+  <testcase name="big prime" classname="PrimeCalculatorTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class BowlingGameTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class BowlingGameTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/default-package.html">default-package</a> &gt; BowlingGameTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">31</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.124s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Method name</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">a roll cannot score more than 10 points</td>
+<td class="success">aRollCanNotScoreMoreThan10Points()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a spare followed by zeros is worth ten points</td>
+<td class="success">aSpareFollowedByZerosIsWorthTenPoints()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a spare in the last frame gets a one roll bonus that is counted once</td>
+<td class="success">aSpareInTheLastFrameGetsAOneRollBonusThatIsCountedOnce()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a strike earns ten points in a frame with a single roll</td>
+<td class="success">aStrikeEarnsTenPointsInFrameWithASingleRoll()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a strike in the last frame gets a two roll bonus that is counted once</td>
+<td class="success">aStrikeInTheLastFrameGetsATwoRollBonusThatIsCountedOnce()</td>
+<td class="success">0.006s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a strike with the one roll bonus after a spare in the last frame does not get a bonus</td>
+<td class="success">aStrikeWithTheOneRollBonusAfterASpareInTheLastFrameDoesNotGetABonus()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">all strikes is a perfect game</td>
+<td class="success">allStrikesIsAPerfectGame()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">an incomplete game cannot be scored</td>
+<td class="success">anIncompleteGameCanNotBeScored()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">an unstarted game cannot be scored</td>
+<td class="success">anUnstartedGameCanNotBeScored()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">bonus roll after a strike in the last frame cannot score more than 10 points</td>
+<td class="success">bonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">bonus roll for a spare in the last frame must be rolled before score can be calculated</td>
+<td class="success">bonusRollForASpareInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">bonus rolls for a strike in the last frame must be rolled before score can be calculated</td>
+<td class="success">bonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">both bonus rolls for a strike in the last frame must be rolled before score can be calculated</td>
+<td class="success">bothBonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">cannot roll after bonus roll for spare</td>
+<td class="success">canNotRollAfterBonusRollForSpare()</td>
+<td class="success">0.071s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">cannot roll after bonus rolls for strike</td>
+<td class="success">canNotRollAfterBonusRollForStrike()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">cannot roll if game already has ten frames</td>
+<td class="success">canNotRollIfGameAlreadyHasTenFrames()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">consecutive spares each get a one roll bonus</td>
+<td class="success">consecutiveSparesEachGetAOneRollBonus()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">consecutive strikes each get the two roll bonus</td>
+<td class="success">consecutiveStrikesEachGetTheTwoRollBonus()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">last two strikes followed by only last bonus with non strike points</td>
+<td class="success">lastTwoStrikesFollowedByOnlyLastBonusWithNonStrikePoints()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">points scored in the roll after a spare are counted twice</td>
+<td class="success">pointsScoredInTheRollAfterASpareAreCountedTwice()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">points scored in the two rolls after a strike are counted twice as a bonus</td>
+<td class="success">pointsScoredInTheTwoRollsAfterAStrikeAreCountedTwiceAsABonus()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">rolling a spare with the two roll bonus does not get a bonus roll</td>
+<td class="success">rollingASpareWithTheTwoRollBonusDoesNotGetABonusRoll()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">rolls cannot score negative points</td>
+<td class="success">rollsCanNotScoreNegativePoints()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">second bonus roll after a strike in the last frame cannot score more than 10 points</td>
+<td class="success">secondBonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">should be able to score a game with all zeros</td>
+<td class="success">shouldBeAbleToScoreAGameWithAllZeros()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">should be able to score a game with no strikes or spares</td>
+<td class="success">shouldBeAbleToScoreAGameWithNoStrikesOrSpares()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">strikes with the two roll bonus do not get bonus rolls</td>
+<td class="success">strikesWithTheTwoRollBonusDoNotGetBonusRolls()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">the second bonus rolls after a strike in the last frame cannot be a strike if the first one is not a strike</td>
+<td class="success">theSecondBonusRollsAfterAStrikeInTheLastFrameCanNotBeAStrikeIfTheFirstOneIsNotAStrike()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">two bonus rolls after a strike in the last frame cannot score more than 10 points</td>
+<td class="success">twoBonusRollsAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">two bonus rolls after a strike in the last frame can score more than 10 points if one is a strike</td>
+<td class="success">twoBonusRollsAfterAStrikeInTheLastFrameCanScoreMoreThan10PointsIfOneIsAStrike()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">two rolls in a frame cannot score more than 10 points</td>
+<td class="success">twoRollsInAFrameCanNotScoreMoreThan10Points()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 8.7</a> at Nov 19, 2025, 9:33:54 AM</p>
+</div>
+</div>
+</body>
+</html>

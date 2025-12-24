@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2025-11-17T13:55:50" hostname="ENDAUTOEFRLSBQC" time="0.098">
+  <properties/>
+  <testcase name="3000 is MMM" classname="RomanNumeralsTest" time="0.052"/>
+  <testcase name="3001 is MMMI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="666 is DCLXVI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="9 is IX" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="575 is DLXXV" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="49 is XLIX" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="1 is I" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="48 is XLVIII" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="3 is III" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="1666 is MDCLXVI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="6 is VI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="66 is LXVI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="911 is CMXI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="1024 is MXXIV" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="16 is XVI" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="59 is LIX" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="5 is V" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="27 is XXVII" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="141 is CXLI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="4 is IV" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="3999 is MMMCMXCIX" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="163 is CLXIII" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="93 is XCIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="166 is CLXVI" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="2 is II" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="402 is CDII" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="3888 is MMMDCCCLXXXVIII" classname="RomanNumeralsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RateLimiterTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-11-19T14:28:43" hostname="ENDAUTOEFRLSBQC" time="0.071">
+  <properties/>
+  <testcase name="Denies requests just before boundary" classname="RateLimiterTest" time="0.056"/>
+  <testcase name="Exact boundary starts a new window each time" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Independent counters/windows per key" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Supports Integer keys" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Supports UUID keys" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Long gaps reset window" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Supports Long keys" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Allows up to window limit" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Resets at boundary, then counts within window" classname="RateLimiterTest" time="0.001"/>
+  <testcase name="Allows first request at exact boundary" classname="RateLimiterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KillerSudokuHelperTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-19T14:07:09" hostname="ENDAUTOEFRLSBQC" time="0.09">
+  <properties/>
+  <testcase name="Cage with several combinations" classname="KillerSudokuHelperTest" time="0.076"/>
+  <testcase name="Cage with several combinations that is restricted" classname="KillerSudokuHelperTest" time="0.002"/>
+  <testcase name="Cage with only 1 possible combination" classname="KillerSudokuHelperTest" time="0.002"/>
+  <testcase name="Cage with sum 45 contains all digits 1:9" classname="KillerSudokuHelperTest" time="0.002"/>
+  <testcase name="Trivial 1-digit cages -&gt; 1 to 9" classname="KillerSudokuHelperTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

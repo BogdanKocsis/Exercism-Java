@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReactTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:41:51.708Z" hostname="ENDAUTOEFRLSBQC" time="0.096">
+  <properties/>
+  <testcase name="input cells have a value" classname="ReactTest" time="0.055"/>
+  <testcase name="compute cells fire callbacks" classname="ReactTest" time="0.011"/>
+  <testcase name="compute cells take inputs in the right order" classname="ReactTest" time="0.001"/>
+  <testcase name="callbacks should not be called if dependencies change but output value doesn't change" classname="ReactTest" time="0.003"/>
+  <testcase name="callbacks can fire from multiple cells" classname="ReactTest" time="0.003"/>
+  <testcase name="callbacks do not report already reported values" classname="ReactTest" time="0.002"/>
+  <testcase name="callback cells only fire on change" classname="ReactTest" time="0.002"/>
+  <testcase name="compute cells can depend on other compute cells" classname="ReactTest" time="0.001"/>
+  <testcase name="compute cells calculate initial value" classname="ReactTest" time="0.001"/>
+  <testcase name="removing a callback multiple times doesn't interfere with other callbacks" classname="ReactTest" time="0.002"/>
+  <testcase name="compute cells update value when dependencies are changed" classname="ReactTest" time="0.001"/>
+  <testcase name="an input cell's value can be set" classname="ReactTest" time="0.0"/>
+  <testcase name="callbacks can be added and removed" classname="ReactTest" time="0.004"/>
+  <testcase name="callbacks should only be called once even if multiple dependencies change" classname="ReactTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

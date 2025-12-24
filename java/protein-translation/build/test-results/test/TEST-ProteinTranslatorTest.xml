@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProteinTranslatorTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2025-10-14T12:17:42" hostname="ENDAUTOEFRLSBQC" time="0.123">
+  <properties/>
+  <testcase name="Tryptophan RNA sequence" classname="ProteinTranslatorTest" time="0.062"/>
+  <testcase name="Translate RNA strand into correct protein list" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Sequence of two protein codons translates into proteins" classname="ProteinTranslatorTest" time="0.002"/>
+  <testcase name="Methionine RNA sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Sequence of two non-STOP codons does not translate to a STOP codon" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Translation stops if STOP codon in middle of three-codon sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Translation stops if STOP codon in middle of six-codon sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Empty RNA sequence results in no proteins" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Sequence of two different protein codons translates into proteins" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Tyrosine RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Tyrosine RNA sequence 2" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Non-existing codon can't translate" classname="ProteinTranslatorTest" time="0.004"/>
+  <testcase name="Incomplete RNA sequence can translate if valid until a STOP codon" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Translation stops if STOP codon at end of two-codon sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Translation stops if STOP codon at end of three-codon sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Leucine RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Leucine RNA sequence 2" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="STOP codon RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="STOP codon RNA sequence 2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="STOP codon RNA sequence 3" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Phenylalanine RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Phenylalanine RNA sequence 2" classname="ProteinTranslatorTest" time="0.002"/>
+  <testcase name="Unknown amino acids, not part of a codon, can't translate" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Serine RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Serine RNA sequence 2" classname="ProteinTranslatorTest" time="0.002"/>
+  <testcase name="Serine RNA sequence 3" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="Serine RNA sequence 4" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Translation stops if STOP codon at beginning of sequence" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Incomplete RNA sequence can't translate" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="Cysteine RNA sequence 1" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="Cysteine RNA sequence 2" classname="ProteinTranslatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

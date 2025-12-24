@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MazeGeneratorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:21:36.498Z" hostname="ENDAUTOEFRLSBQC" time="0.119">
+  <properties/>
+  <testcase name="Maze with a seed is generated perfectly (single path, no isolated cells)" classname="MazeGeneratorTest" time="0.074"/>
+  <testcase name="Maze has a single exit on the right side" classname="MazeGeneratorTest" time="0.003"/>
+  <testcase name="Throws when columns are less than five" classname="MazeGeneratorTest" time="0.005"/>
+  <testcase name="Maze has a single entrance on the left side" classname="MazeGeneratorTest" time="0.001"/>
+  <testcase name="Mazes generated with same seed are identical" classname="MazeGeneratorTest" time="0.004"/>
+  <testcase name="Throws when rows are less than five" classname="MazeGeneratorTest" time="0.002"/>
+  <testcase name="Maze is generated perfectly (single path, no isolated cells)" classname="MazeGeneratorTest" time="0.003"/>
+  <testcase name="Throws when rows exceed hundred" classname="MazeGeneratorTest" time="0.002"/>
+  <testcase name="Maze has correct overall dimensions" classname="MazeGeneratorTest" time="0.003"/>
+  <testcase name="Maze is different each time it is generated" classname="MazeGeneratorTest" time="0.002"/>
+  <testcase name="Mazes generated with different seeds are different" classname="MazeGeneratorTest" time="0.001"/>
+  <testcase name="Maze contains only valid characters" classname="MazeGeneratorTest" time="0.003"/>
+  <testcase name="Throws when columns exceed hundred" classname="MazeGeneratorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

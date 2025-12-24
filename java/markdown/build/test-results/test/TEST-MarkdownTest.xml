@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarkdownTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:29:40.313Z" hostname="ENDAUTOEFRLSBQC" time="0.101">
+  <properties/>
+  <testcase name="parses normal text as a paragraph" classname="MarkdownTest" time="0.07"/>
+  <testcase name="with h1 header level" classname="MarkdownTest" time="0.001"/>
+  <testcase name="mixed normal, italics and bold text" classname="MarkdownTest" time="0.001"/>
+  <testcase name="with h2 header level" classname="MarkdownTest" time="0.0"/>
+  <testcase name="with markdown symbols in the paragraph text that should not be interpreted" classname="MarkdownTest" time="0.001"/>
+  <testcase name="with h3 header level" classname="MarkdownTest" time="0.001"/>
+  <testcase name="with h4 header level" classname="MarkdownTest" time="0.0"/>
+  <testcase name="with h5 header level" classname="MarkdownTest" time="0.001"/>
+  <testcase name="h7 header level is a paragraph" classname="MarkdownTest" time="0.001"/>
+  <testcase name="with h6 header level" classname="MarkdownTest" time="0.001"/>
+  <testcase name="unordered lists" classname="MarkdownTest" time="0.002"/>
+  <testcase name="With a little bit of everything" classname="MarkdownTest" time="0.001"/>
+  <testcase name="with markdown symbols in the list item text that should not be interpreted" classname="MarkdownTest" time="0.002"/>
+  <testcase name="with markdown symbols in the header text that should not be interpreted" classname="MarkdownTest" time="0.001"/>
+  <testcase name="unordered lists close properly with preceding and following lines" classname="MarkdownTest" time="0.001"/>
+  <testcase name="parsing bold text" classname="MarkdownTest" time="0.001"/>
+  <testcase name="parsing italics" classname="MarkdownTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IntergalacticTransmissionTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-11-20T16:37:23" hostname="ENDAUTOEFRLSBQC" time="0.135">
+  <properties/>
+  <testcase name="last byte has wrong parity" classname="IntergalacticTransmissionTest" time="0.026"/>
+  <testcase name="0x05 is transmitted as 0x0581" classname="IntergalacticTransmissionTest" time="0.051"/>
+  <testcase name="0xe2566500 is decoded to 0xe2ad90" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="seven byte message" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="eight byte message" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="calculate transmit sequences" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="0x2881 is decoded to 0x29" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="second byte has wrong parity" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="zero message" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="at 7 bytes long, no padding is required" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="wrong parity on 16th byte" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="0x0581 is decoded to 0x05" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="first byte has wrong parity" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="0x0300 is decoded to 0x02" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="0xc001c0de is transmitted as 0xc000711be1" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="0x00 is transmitted as 0x0000" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="twenty byte message" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="0x02 is transmitted as 0x0300" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="0x06 is transmitted as 0x0600" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="six byte message" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="0xcf4b00 is decoded to 0xce94" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="0x29 is transmitted as 0x2881" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="twenty byte message" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <testcase name="eight byte message" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="empty message" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="six byte message" classname="IntergalacticTransmissionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

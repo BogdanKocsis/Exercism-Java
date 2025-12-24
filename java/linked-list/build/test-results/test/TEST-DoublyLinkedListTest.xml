@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DoublyLinkedListTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-11-19T08:21:06" hostname="ENDAUTOEFRLSBQC" time="0.089">
+  <properties/>
+  <testcase name="unshift adds element at start of the list" classname="DoublyLinkedListTest" time="0.069"/>
+  <testcase name="push/pop respectively add/remove at the end of the list" classname="DoublyLinkedListTest" time="0.002"/>
+  <testcase name="pop gets element from the list" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="shifting to empty doesn't break the list" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="shift gets an element from the list" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="pop push shift unshift can be used in any order" classname="DoublyLinkedListTest" time="0.005"/>
+  <testcase name="shift gets first element from the list" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="popping to empty doesn't break the list" classname="DoublyLinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:57:37.400Z" hostname="ENDAUTOEFRLSBQC" time="0.335">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs840WithFactorsLessThanOrEqualTo370()" classname="PythagoreanTripletTest" time="0.085"/>
+  <testcase name="triplets whose sum is 1000" classname="PythagoreanTripletTest" time="0.003"/>
+  <testcase name="no matching triplets for 1001" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="triplets whose sum is 108" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="several matching triplets" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="triplets whose sum is 12" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="returns all matching triplets" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs30000WithFactorsLessThanOrEqualTo12500()" classname="PythagoreanTripletTest" time="0.064"/>
+  <testcase name="triplets for large number" classname="PythagoreanTripletTest" time="0.168"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

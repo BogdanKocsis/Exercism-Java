@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchoolTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2025-11-19T09:10:17" hostname="ENDAUTOEFRLSBQC" time="0.121">
+  <properties/>
+  <testcase name="Grade is empty if no students in that grade" classname="SchoolTest" time="0.074"/>
+  <testcase name="Adding students in multiple grades" classname="SchoolTest" time="0.001"/>
+  <testcase name="Student not added to same grade in the roster more than once" classname="SchoolTest" time="0.005"/>
+  <testcase name="Students are sorted by grades in the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Adding multiple students in the same grade in the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Cannot add student to same grade in the roster more than once" classname="SchoolTest" time="0.001"/>
+  <testcase name="Student not added to multiple grades" classname="SchoolTest" time="0.002"/>
+  <testcase name="Students in multiple grades are added to the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Add a student" classname="SchoolTest" time="0.001"/>
+  <testcase name="Students are sorted by name in the roster" classname="SchoolTest" time="0.002"/>
+  <testcase name="Grade is empty if no students in the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Student not added to multiple grades in the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Multiple students in the same grade are added to the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Roster is empty when no student is added" classname="SchoolTest" time="0.001"/>
+  <testcase name="Student is added to the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Student not added to same grade more than once" classname="SchoolTest" time="0.002"/>
+  <testcase name="Students are sorted by name in a grade" classname="SchoolTest" time="0.001"/>
+  <testcase name="Cannot add same student to multiple grades in the roster" classname="SchoolTest" time="0.001"/>
+  <testcase name="Students are sorted by grades and then by name in the roster" classname="SchoolTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

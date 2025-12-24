@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DominoesTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:24:39.386Z" hostname="ENDAUTOEFRLSBQC" time="0.109">
+  <properties/>
+  <testcase name="can't be chained" classname="DominoesTest" time="0.063"/>
+  <testcase name="need backtrack" classname="DominoesTest" time="0.015"/>
+  <testcase name="singleton input = singleton output" classname="DominoesTest" time="0.001"/>
+  <testcase name="nine elements" classname="DominoesTest" time="0.002"/>
+  <testcase name="separate loops" classname="DominoesTest" time="0.002"/>
+  <testcase name="disconnected - double loop" classname="DominoesTest" time="0.002"/>
+  <testcase name="singleton that can't be chained" classname="DominoesTest" time="0.002"/>
+  <testcase name="disconnected - single isolated" classname="DominoesTest" time="0.002"/>
+  <testcase name="separate three-domino loops" classname="DominoesTest" time="0.002"/>
+  <testcase name="empty input = empty output" classname="DominoesTest" time="0.002"/>
+  <testcase name="can reverse dominoes" classname="DominoesTest" time="0.001"/>
+  <testcase name="disconnected - simple" classname="DominoesTest" time="0.002"/>
+  <testcase name="three elements" classname="DominoesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

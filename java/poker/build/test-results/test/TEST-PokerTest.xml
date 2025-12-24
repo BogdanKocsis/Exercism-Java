@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PokerTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:36:59.756Z" hostname="ENDAUTOEFRLSBQC" time="0.146">
+  <properties/>
+  <testcase name="straight flush beats four of a kind" classname="PokerTest" time="0.074"/>
+  <testcase name="both hands have two pairs, highest ranked pair wins" classname="PokerTest" time="0.002"/>
+  <testcase name="a straight beats three of a kind" classname="PokerTest" time="0.002"/>
+  <testcase name="a tie has multiple winners" classname="PokerTest" time="0.002"/>
+  <testcase name="both hands have four of a kind, tie goes to high quad" classname="PokerTest" time="0.001"/>
+  <testcase name="single hand always wins" classname="PokerTest" time="0.002"/>
+  <testcase name="both hands have two identically ranked pairs, tie goes to remaining card (kicker)" classname="PokerTest" time="0.002"/>
+  <testcase name="aces cannot be in the middle of a straight flush (Q K A 2 3)" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have a straight flush, tie goes to highest-ranked card" classname="PokerTest" time="0.001"/>
+  <testcase name="aces can start a straight flush (A 2 3 4 5)" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have a flush, tie goes to high card, down to the last one if necessary" classname="PokerTest" time="0.001"/>
+  <testcase name="full house beats a flush" classname="PokerTest" time="0.001"/>
+  <testcase name="highest card out of all hands wins" classname="PokerTest" time="0.002"/>
+  <testcase name="four of a kind beats a full house" classname="PokerTest" time="0.003"/>
+  <testcase name="two pairs beats one pair" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands with a straight, tie goes to highest ranked card" classname="PokerTest" time="0.002"/>
+  <testcase name="both hands have three of a kind, tie goes to highest ranked triplet" classname="PokerTest" time="0.002"/>
+  <testcase name="flush beats a straight" classname="PokerTest" time="0.001"/>
+  <testcase name="two pairs first ranked by largest pair" classname="PokerTest" time="0.001"/>
+  <testcase name="one pair beats high card" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have two pairs, with the same highest ranked pair, tie goes to low pair" classname="PokerTest" time="0.001"/>
+  <testcase name="multiple hands with the same high cards, tie compares next highest ranked, down to last card" classname="PokerTest" time="0.002"/>
+  <testcase name="aces can end a straight flush (10 J Q K A)" classname="PokerTest" time="0.002"/>
+  <testcase name="winning high card hand also has the lowest card" classname="PokerTest" time="0.001"/>
+  <testcase name="three of a kind beats two pair" classname="PokerTest" time="0.001"/>
+  <testcase name="aces can end a straight (10 J Q K A)" classname="PokerTest" time="0.001"/>
+  <testcase name="with multiple decks, both hands with identical four of a kind, tie determined by kicker" classname="PokerTest" time="0.001"/>
+  <testcase name="with multiple decks, two players can have same three of a kind, ties go to highest remaining cards" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have two pairs that add to the same value, win goes to highest pair" classname="PokerTest" time="0.001"/>
+  <testcase name="aces can start a straight (A 2 3 4 5)" classname="PokerTest" time="0.001"/>
+  <testcase name="aces cannot be in the middle of a straight (Q K A 2 3)" classname="PokerTest" time="0.001"/>
+  <testcase name="with multiple decks, both hands have a full house with the same triplet, tie goes to the pair" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have a full house, tie goes to highest-ranked triplet" classname="PokerTest" time="0.001"/>
+  <testcase name="highest pair wins" classname="PokerTest" time="0.001"/>
+  <testcase name="even though an ace is usually high, a 5-high straight is the lowest-scoring straight" classname="PokerTest" time="0.001"/>
+  <testcase name="both hands have the same pair, high card wins" classname="PokerTest" time="0.001"/>
+  <testcase name="even though an ace is usually high, a 5-high straight flush is the lowest-scoring straight flush" classname="PokerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

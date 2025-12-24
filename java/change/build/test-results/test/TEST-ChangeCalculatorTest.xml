@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChangeCalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-12-23T13:41:20.487Z" hostname="ENDAUTOEFRLSBQC" time="0.17">
+  <properties/>
+  <testcase name="possible change without unit coins available" classname="ChangeCalculatorTest" time="0.07"/>
+  <testcase name="cannot find negative change values" classname="ChangeCalculatorTest" time="0.005"/>
+  <testcase name="change for 1 cent" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="change with Lilliputian Coins" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="another possible change without unit coins available" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="large target values" classname="ChangeCalculatorTest" time="0.071"/>
+  <testcase name="single coin change" classname="ChangeCalculatorTest" time="0.002"/>
+  <testcase name="multiple coin change" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="change with Lower Elbonia Coins" classname="ChangeCalculatorTest" time="0.001"/>
+  <testcase name="error if no combination can add up to target" classname="ChangeCalculatorTest" time="0.002"/>
+  <testcase name="a greedy approach is not optimal" classname="ChangeCalculatorTest" time="0.0"/>
+  <testcase name="no coins make 0 change" classname="ChangeCalculatorTest" time="0.002"/>
+  <testcase name="error testing for change smaller than the smallest of coins" classname="ChangeCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

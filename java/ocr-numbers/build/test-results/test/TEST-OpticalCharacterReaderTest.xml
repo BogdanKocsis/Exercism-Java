@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OpticalCharacterReaderTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:23:29.592Z" hostname="ENDAUTOEFRLSBQC" time="0.088">
+  <properties/>
+  <testcase name="Numbers separated by empty lines are recognized. Lines are joined by commas." classname="OpticalCharacterReaderTest" time="0.062"/>
+  <testcase name="Unreadable but correctly sized inputs return ?" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Input with a number of columns that is not a multiple of three raises an error" classname="OpticalCharacterReaderTest" time="0.004"/>
+  <testcase name="Recognizes 110101100" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 0" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 1" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 2" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 3" classname="OpticalCharacterReaderTest" time="0.0"/>
+  <testcase name="Recognizes 4" classname="OpticalCharacterReaderTest" time="0.0"/>
+  <testcase name="Recognizes 5" classname="OpticalCharacterReaderTest" time="0.0"/>
+  <testcase name="Recognizes 6" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 7" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 8" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes 9" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Garbled numbers in a string are replaced with ?" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Recognizes string of decimal numbers" classname="OpticalCharacterReaderTest" time="0.001"/>
+  <testcase name="Input with a number of lines that is not a multiple of four raises an error" classname="OpticalCharacterReaderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

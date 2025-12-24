@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListOpsTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:11:33.774Z" hostname="ENDAUTOEFRLSBQC" time="0.119">
+  <properties/>
+  <testcase name="non-empty list" classname="ListOpsTest" time="0.065"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.005"/>
+  <testcase name="direction dependent function applied to non-empty list" classname="ListOpsTest" time="0.001"/>
+  <testcase name="non-empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.003"/>
+  <testcase name="non-empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="empty list to list" classname="ListOpsTest" time="0.001"/>
+  <testcase name="list of nested lists" classname="ListOpsTest" time="0.001"/>
+  <testcase name="direction independent function applied to non-empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="empty lists" classname="ListOpsTest" time="0.0"/>
+  <testcase name="direction independent function applied to non-empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="non-empty list" classname="ListOpsTest" time="0.001"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.001"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.0"/>
+  <testcase name="non-empty lists" classname="ListOpsTest" time="0.001"/>
+  <testcase name="direction dependent function applied to non-empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="list of lists is not flattened" classname="ListOpsTest" time="0.001"/>
+  <testcase name="empty list" classname="ListOpsTest" time="0.002"/>
+  <testcase name="list of lists" classname="ListOpsTest" time="0.001"/>
+  <testcase name="list to empty list" classname="ListOpsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

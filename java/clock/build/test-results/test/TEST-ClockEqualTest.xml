@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockEqualTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:12:45.743Z" hostname="ENDAUTOEFRLSBQC" time="0.088">
+  <properties/>
+  <testcase name="clocks with negative hour" classname="ClockEqualTest" time="0.059"/>
+  <testcase name="clocks with hour overflow by several days" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative minute" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative minute that wraps" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative hour that wraps" classname="ClockEqualTest" time="0.002"/>
+  <testcase name="clocks a minute apart" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative hours and minutes that wrap" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks an hour apart" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="full clock and zeroed clock" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with hour overflow" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative minute that wraps multiple times" classname="ClockEqualTest" time="0.002"/>
+  <testcase name="clocks with negative hour that wraps multiple times" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with minute overflow by several days" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with minute overflow" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with negative hours and minutes" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocks with same time" classname="ClockEqualTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

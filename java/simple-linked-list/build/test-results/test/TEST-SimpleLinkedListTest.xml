@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleLinkedListTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:45:07.275Z" hostname="ENDAUTOEFRLSBQC" time="0.094">
+  <properties/>
+  <testcase name="Can return list as an array" classname="SimpleLinkedListTest" time="0.072"/>
+  <testcase name="Reverse reverses the list order" classname="SimpleLinkedListTest" time="0.004"/>
+  <testcase name="Create list from array" classname="SimpleLinkedListTest" time="0.003"/>
+  <testcase name="Can return empty list as an empty array" classname="SimpleLinkedListTest" time="0.001"/>
+  <testcase name="Popping an empty list throws NoSuchElementException" classname="SimpleLinkedListTest" time="0.004"/>
+  <testcase name="Pop returns last added element (LIFO)" classname="SimpleLinkedListTest" time="0.001"/>
+  <testcase name="A new list is empty" classname="SimpleLinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

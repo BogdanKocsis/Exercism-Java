@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankAccountTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-11-19T10:03:24" hostname="ENDAUTOEFRLSBQC" time="0.929">
+  <properties/>
+  <testcase name="Multiple deposits" classname="BankAccountTest" time="0.054"/>
+  <testcase name="Can handle concurrent transactions" classname="BankAccountTest" time="0.837"/>
+  <testcase name="Cannot check balance of closed account" classname="BankAccountTest" time="0.004"/>
+  <testcase name="Cannot deposit negative" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot deposit into unopened account" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Withdraw twice" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Reopened account does not retain balance" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot withdraw negative" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Single deposit" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot withdraw from closed account" classname="BankAccountTest" time="0.002"/>
+  <testcase name="Cannot close an account that was not opened" classname="BankAccountTest" time="0.002"/>
+  <testcase name="Newly opened account has zero balance" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Can do multiple operations sequentially" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Withdraw once" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot withdraw more than deposited" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot open an already opened account" classname="BankAccountTest" time="0.001"/>
+  <testcase name="Cannot deposit into closed account" classname="BankAccountTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

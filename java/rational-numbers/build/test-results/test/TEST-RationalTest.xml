@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="41" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:35:36.592Z" hostname="ENDAUTOEFRLSBQC" time="0.166">
+  <properties/>
+  <testcase name="Reduce a rational number with a negative denominator to lowest terms" classname="RationalTest" time="0.059"/>
+  <testcase name="Subtract two negative rational numbers" classname="RationalTest" time="0.001"/>
+  <testcase name="Raise a negative rational number to a positive integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="Reduce places the minus sign on the numerator" classname="RationalTest" time="0.001"/>
+  <testcase name="Multiply a rational number by 0" classname="RationalTest" time="0.0"/>
+  <testcase name="Absolute value of a positive rational number with negative numerator and denominator" classname="RationalTest" time="0.001"/>
+  <testcase name="Absolute value of a negative rational number" classname="RationalTest" time="0.0"/>
+  <testcase name="Add a rational number to its additive inverse" classname="RationalTest" time="0.001"/>
+  <testcase name="Raise zero to an integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="&quot;Raise a negative rational number to an even negative integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="Reduce one to lowest terms" classname="RationalTest" time="0.001"/>
+  <testcase name="Multiply a rational number by its reciprocal" classname="RationalTest" time="0.0"/>
+  <testcase name="Divide a positive rational number by a negative rational number" classname="RationalTest" time="0.0"/>
+  <testcase name="Raise a positive rational number to a negative integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="Reduce a negative rational number to lowest terms" classname="RationalTest" time="0.001"/>
+  <testcase name="Raise one to an integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="Raise a negative rational number to an odd negative integer power" classname="RationalTest" time="0.002"/>
+  <testcase name="Add two positive rational numbers" classname="RationalTest" time="0.001"/>
+  <testcase name="Divide two positive rational numbers" classname="RationalTest" time="0.001"/>
+  <testcase name="Add a positive rational number and a negative rational number" classname="RationalTest" time="0.002"/>
+  <testcase name="Raise a real number to a positive rational number" classname="RationalTest" time="0.024"/>
+  <testcase name="Divide a rational number by 1" classname="RationalTest" time="0.001"/>
+  <testcase name="Subtract a rational number from itself" classname="RationalTest" time="0.001"/>
+  <testcase name="Multiply two positive rational numbers" classname="RationalTest" time="0.001"/>
+  <testcase name="Absolute value of zero" classname="RationalTest" time="0.001"/>
+  <testcase name="Raise a real number to a negative rational number" classname="RationalTest" time="0.001"/>
+  <testcase name="Reduce a positive rational number to lowest terms" classname="RationalTest" time="0.002"/>
+  <testcase name="Multiply a negative rational number by a positive rational number" classname="RationalTest" time="0.0"/>
+  <testcase name="Subtract two positive rational numbers" classname="RationalTest" time="0.001"/>
+  <testcase name="Absolute value of a rational number is reduced to lowest terms" classname="RationalTest" time="0.0"/>
+  <testcase name="Multiply a rational number by 1" classname="RationalTest" time="0.001"/>
+  <testcase name="&quot;Absolute value of a negative rational number with negative denominator" classname="RationalTest" time="0.002"/>
+  <testcase name="Add two negative rational numbers" classname="RationalTest" time="0.002"/>
+  <testcase name="Divide two negative rational numbers" classname="RationalTest" time="0.0"/>
+  <testcase name="Raise a positive rational number to a positive integer power" classname="RationalTest" time="0.001"/>
+  <testcase name="Absolute value of a positive rational number" classname="RationalTest" time="0.001"/>
+  <testcase name="Multiply two negative rational numbers" classname="RationalTest" time="0.002"/>
+  <testcase name="Raise a positive rational number to the power of zero" classname="RationalTest" time="0.002"/>
+  <testcase name="Reduce an integer to lowest terms" classname="RationalTest" time="0.001"/>
+  <testcase name="Subtract a positive rational number and a negative rational number" classname="RationalTest" time="0.002"/>
+  <testcase name="Reduce zero to lowest terms" classname="RationalTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoBucketTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-11-19T11:57:48" hostname="ENDAUTOEFRLSBQC" time="0.102">
+  <properties/>
+  <testcase name="Measure using bucket one much smaller than bucket two" classname="TwoBucketTest" time="0.07"/>
+  <testcase name="Goal larger than both buckets is impossible" classname="TwoBucketTest" time="0.008"/>
+  <testcase name="Measure one step using bucket one of size 1 and bucket two of size 3 - start with bucket two" classname="TwoBucketTest" time="0.002"/>
+  <testcase name="Measure using bucket one of size 2 and bucket two of size 3 - start with bucket one and end with bucket two" classname="TwoBucketTest" time="0.001"/>
+  <testcase name="With the same buckets but a different goal, then it is possible" classname="TwoBucketTest" time="0.002"/>
+  <testcase name="Measure using bucket one much bigger than bucket two" classname="TwoBucketTest" time="0.001"/>
+  <testcase name="Not possible to reach the goal" classname="TwoBucketTest" time="0.002"/>
+  <testcase name="Measure using bucket one of size 7 and bucket two of size 11 - start with bucket one" classname="TwoBucketTest" time="0.001"/>
+  <testcase name="Measure using bucket one of size 7 and bucket two of size 11 - start with bucket two" classname="TwoBucketTest" time="0.001"/>
+  <testcase name="Measure using bucket one of size 3 and bucket two of size 5 - start with bucket one" classname="TwoBucketTest" time="0.0"/>
+  <testcase name="Measure using bucket one of size 3 and bucket two of size 5 - start with bucket two" classname="TwoBucketTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

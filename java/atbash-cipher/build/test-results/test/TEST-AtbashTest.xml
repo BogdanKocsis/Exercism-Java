@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtbashTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-11-18T10:57:13" hostname="ENDAUTOEFRLSBQC" time="0.087">
+  <properties/>
+  <testcase name="encode yes" classname="AtbashTest" time="0.054"/>
+  <testcase name="decode with no spaces" classname="AtbashTest" time="0.005"/>
+  <testcase name="encode mindblowingly" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode no" classname="AtbashTest" time="0.001"/>
+  <testcase name="decode with too many spaces" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode all the letters" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode OMG" classname="AtbashTest" time="0.002"/>
+  <testcase name="decode numbers" classname="AtbashTest" time="0.001"/>
+  <testcase name="decode exercism" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode deep thought" classname="AtbashTest" time="0.001"/>
+  <testcase name="decode all the letters" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode numbers" classname="AtbashTest" time="0.001"/>
+  <testcase name="encode spaces" classname="AtbashTest" time="0.001"/>
+  <testcase name="decode a sentence" classname="AtbashTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

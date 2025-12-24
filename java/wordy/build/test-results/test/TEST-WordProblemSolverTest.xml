@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordProblemSolverTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2025-11-19T10:45:17" hostname="ENDAUTOEFRLSBQC" time="0.104">
+  <properties/>
+  <testcase name="multiplication" classname="WordProblemSolverTest" time="0.049"/>
+  <testcase name="addition with a right hand zero" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="just a zero" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="multiple division" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="unknown operation" classname="WordProblemSolverTest" time="0.006"/>
+  <testcase name="just a number" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="division" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="addition and subtraction" classname="WordProblemSolverTest" time="0.0"/>
+  <testcase name="reject problem with no operands or operator" classname="WordProblemSolverTest" time="0.002"/>
+  <testcase name="reject problem missing an operand" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="addition with negative numbers" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="just a negative number" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="multiple additions" classname="WordProblemSolverTest" time="0.0"/>
+  <testcase name="reject two operations in a row" classname="WordProblemSolverTest" time="0.002"/>
+  <testcase name="subtraction then addition" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="reject prefix notation" classname="WordProblemSolverTest" time="0.002"/>
+  <testcase name="multiple subtraction" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="reject postfix notation" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="multiple multiplication" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="subtraction" classname="WordProblemSolverTest" time="0.0"/>
+  <testcase name="addition with a left hand zero" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="addition" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="more addition" classname="WordProblemSolverTest" time="0.0"/>
+  <testcase name="reject two numbers in a row" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="Non math question" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="large addition" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="addition and multiplication" classname="WordProblemSolverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

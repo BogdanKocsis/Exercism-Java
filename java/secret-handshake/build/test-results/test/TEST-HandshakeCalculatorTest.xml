@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandshakeCalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-10-15T11:03:27" hostname="ENDAUTOEFRLSBQC" time="0.089">
+  <properties/>
+  <testcase name="reversing one action gives the same action" classname="HandshakeCalculatorTest" time="0.06"/>
+  <testcase name="wink for 1" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="reversing no actions still gives no actions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="jump for 1000" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="handles input with more than five bits without reversal" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="close your eyes for 100" classname="HandshakeCalculatorTest" time="0.002"/>
+  <testcase name="all possible actions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="double blink for 10" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="reverse all possible actions" classname="HandshakeCalculatorTest" time="0.002"/>
+  <testcase name="reverse two actions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="combine two actions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="handles input with more than five bits with reversal" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="do nothing for zero" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="all actions for input with more than five bits" classname="HandshakeCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

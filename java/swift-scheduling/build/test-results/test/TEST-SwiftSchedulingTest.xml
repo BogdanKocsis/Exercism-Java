@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SwiftSchedulingTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-11-19T15:09:32" hostname="ENDAUTOEFRLSBQC" time="0.086">
+  <properties/>
+  <testcase name="EOW on Wednesday translates to Friday at five in the afternoon" classname="SwiftSchedulingTest" time="0.057"/>
+  <testcase name="NOW translates to two hours later" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Thursday translates to Sunday at eight in the evening" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Friday translates to Sunday at eight in the evening" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Monday translates to Friday at five in the afternoon" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="ASAP at one in the afternoon translates to tomorrow at one in the afternoon" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="2M before the second month of this year translates to the first workday of the second month of this year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="11M in the eleventh month translates to the first workday of the eleventh month of next year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Tuesday translates to Friday at five in the afternoon" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="ASAP after one in the afternoon translates to tomorrow at one in the afternoon" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="4M in the ninth month translates to the first workday of the fourth month of next year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="ASAP before one in the afternoon translates to today at five in the afternoon" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW translates to leap day" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="Q1 in the first quarter translates to the last workday of the first quarter of this year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="Q3 in the fourth quarter translates to the last workday of the third quarter of next year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="Q4 in the second quarter translates to the last workday of the fourth quarter of this year" classname="SwiftSchedulingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

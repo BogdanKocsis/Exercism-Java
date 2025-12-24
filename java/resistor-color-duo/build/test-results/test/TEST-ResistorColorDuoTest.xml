@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorDuoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-10-15T06:50:17" hostname="ENDAUTOEFRLSBQC" time="0.076">
+  <properties/>
+  <testcase name="White and red" classname="ResistorColorDuoTest" time="0.058"/>
+  <testcase name="Black and brown, one-digit" classname="ResistorColorDuoTest" time="0.002"/>
+  <testcase name="Brown and black" classname="ResistorColorDuoTest" time="0.001"/>
+  <testcase name="Blue and grey" classname="ResistorColorDuoTest" time="0.002"/>
+  <testcase name="Orange and orange" classname="ResistorColorDuoTest" time="0.002"/>
+  <testcase name="Yellow and violet" classname="ResistorColorDuoTest" time="0.001"/>
+  <testcase name="Ignore additional colors" classname="ResistorColorDuoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

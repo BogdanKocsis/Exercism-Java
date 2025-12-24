@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RunLengthEncodingTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-11-17T13:42:20" hostname="ENDAUTOEFRLSBQC" time="0.081">
+  <properties/>
+  <testcase name="single characters only" classname="RunLengthEncodingTest" time="0.053"/>
+  <testcase name="single characters with repeated characters" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="lowercase string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="encode followed by decode gives original string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="string with no single characters" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="single characters mixed with repeated characters" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="lowercase characters" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="multiple whitespace mixed in string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="string with no single characters" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="empty string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="single characters only are encoded without count" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="multiple whitespace mixed in string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="empty string" classname="RunLengthEncodingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

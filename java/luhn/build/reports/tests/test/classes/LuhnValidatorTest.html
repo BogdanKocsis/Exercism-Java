@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class LuhnValidatorTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class LuhnValidatorTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/default-package.html">default-package</a> &gt; LuhnValidatorTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">23</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.072s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Method name</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">input digit 9 is correctly converted to output digit 9</td>
+<td class="success">testDigitNineConvertedToOutputNine()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">invalid Canadian SIN</td>
+<td class="success">testInvalidCanadianSINInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">invalid credit card</td>
+<td class="success">testInvalidCreditCardInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">invalid long number with a remainder divisible by 5</td>
+<td class="success">testInvalidLongNumberWithARemainderDivisibleBy5()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">invalid long number with an even remainder</td>
+<td class="success">testInvalidLongNumberWithAnEvenRemainder()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">more than a single zero is valid</td>
+<td class="success">testMoreThanSingleZeroValid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">non-numeric, non-space char in the middle with a sum that's divisible by 10 isn't allowed</td>
+<td class="success">testNonNumericNonSpaceCharInMiddleWithSumDivisibleBy10IsNotAllowed()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a simple valid SIN that becomes invalid if reversed</td>
+<td class="success">testSimpleValidSINReversedBecomesInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a simple valid SIN that remains valid if reversed</td>
+<td class="success">testSimpleValidSINReversedRemainsValid()</td>
+<td class="success">0.050s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">single digit strings can not be valid</td>
+<td class="success">testSingleDigitStringInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">single zero with space is invalid</td>
+<td class="success">testSingleSpaceWithZeroInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a single zero is invalid</td>
+<td class="success">testSingleZeroIsInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid strings with punctuation included become invalid</td>
+<td class="success">testStringContainingPunctuationInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid strings with symbols included become invalid</td>
+<td class="success">testStringContainingSymbolsInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">string containing symbols is invalid (Java track specific)</td>
+<td class="success">testStringContainingSymbolsIsInvalidJavaTrackSpecific()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">using ascii value for doubled non-digit isn't allowed</td>
+<td class="success">testUsingASCIIValueForDoubledNonDigitNotAllowed()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">using ascii value for non-doubled non-digit isn't allowed</td>
+<td class="success">testUsingASCIIValueForNonDoubledNonDigitNotAllowed()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">a valid Canadian SIN</td>
+<td class="success">testValidCanadianSINValid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid luhn with an odd number of digits and non zero first digit</td>
+<td class="success">testValidLuhnWithOddNumberOfDigitsAndNonZeroFirstDigit()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid number with an even number of digits</td>
+<td class="success">testValidNumberWithAnEvenNumberOfDigits()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid number with an odd number of spaces</td>
+<td class="success">testValidNumberWithAnOddNumberOfSpaces()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">valid strings with a non-digit added at the end become invalid</td>
+<td class="success">testValidStringsWithANonDigitAtEndInvalid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">very long input is valid</td>
+<td class="success">testVeryLongInputIsValid()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 8.7</a> at Oct 16, 2025, 9:20:40 AM</p>
+</div>
+</div>
+</body>
+</html>

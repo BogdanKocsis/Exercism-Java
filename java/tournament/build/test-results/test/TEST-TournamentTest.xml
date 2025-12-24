@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TournamentTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-11-19T10:26:40" hostname="ENDAUTOEFRLSBQC" time="0.091">
+  <properties/>
+  <testcase name="typical input" classname="TournamentTest" time="0.06"/>
+  <testcase name="incomplete competition (not all pairs have played)" classname="TournamentTest" time="0.002"/>
+  <testcase name="just the header if no input" classname="TournamentTest" time="0.001"/>
+  <testcase name="ensure points sorted numerically" classname="TournamentTest" time="0.002"/>
+  <testcase name="a win can also be expressed as a loss" classname="TournamentTest" time="0.002"/>
+  <testcase name="a different team can win" classname="TournamentTest" time="0.002"/>
+  <testcase name="ties broken alphabetically" classname="TournamentTest" time="0.002"/>
+  <testcase name="a win is three points, a loss is zero points" classname="TournamentTest" time="0.001"/>
+  <testcase name="There can be more than two teams" classname="TournamentTest" time="0.001"/>
+  <testcase name="There can be more than one match" classname="TournamentTest" time="0.001"/>
+  <testcase name="There can be more than one winner" classname="TournamentTest" time="0.001"/>
+  <testcase name="a draw is one point each" classname="TournamentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTreeTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-12-23T13:59:52.935Z" hostname="ENDAUTOEFRLSBQC" time="0.086">
+  <properties/>
+  <testcase name="can sort complex tree" classname="BinarySearchTreeTest" time="0.064"/>
+  <testcase name="data is retained" classname="BinarySearchTreeTest" time="0.003"/>
+  <testcase name="insert data at proper node" classname="BinarySearchTreeTest" time="0.002"/>
+  <testcase name="same number at left node" classname="BinarySearchTreeTest" time="0.004"/>
+  <testcase name="can sort single number" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="can sort if second number is smaller than first" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="can create complex tree" classname="BinarySearchTreeTest" time="0.002"/>
+  <testcase name="greater number at right node" classname="BinarySearchTreeTest" time="0.001"/>
+  <testcase name="can sort if second number is same as first" classname="BinarySearchTreeTest" time="0.0"/>
+  <testcase name="can sort if second number is greater than first" classname="BinarySearchTreeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

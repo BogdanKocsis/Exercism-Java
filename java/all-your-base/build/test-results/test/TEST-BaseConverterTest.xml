@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BaseConverterTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-11-20T16:02:41" hostname="ENDAUTOEFRLSBQC" time="0.107">
+  <properties/>
+  <testcase name="single decimal to binary" classname="BaseConverterTest" time="0.06"/>
+  <testcase name="decimal to binary" classname="BaseConverterTest" time="0.0"/>
+  <testcase name="input base is one" classname="BaseConverterTest" time="0.005"/>
+  <testcase name="binary to single decimal" classname="BaseConverterTest" time="0.002"/>
+  <testcase name="input base is zero" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="leading zeros" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="trinary to hexadecimal" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="hexadecimal to trinary" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="output base is zero" classname="BaseConverterTest" time="0.002"/>
+  <testcase name="empty list" classname="BaseConverterTest" time="0.0"/>
+  <testcase name="single zero" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="binary to multiple decimal" classname="BaseConverterTest" time="0.002"/>
+  <testcase name="output base is negative" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="15-bit integer" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="single bit one to decimal" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="invalid positive digit" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="multiple zeros" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="negative digit" classname="BaseConverterTest" time="0.001"/>
+  <testcase name="input base is negative" classname="BaseConverterTest" time="0.002"/>
+  <testcase name="output base is one" classname="BaseConverterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

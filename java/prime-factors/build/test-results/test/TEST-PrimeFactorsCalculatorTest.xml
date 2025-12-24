@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeFactorsCalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-11-18T16:21:13" hostname="ENDAUTOEFRLSBQC" time="0.138">
+  <properties/>
+  <testcase name="product of second prime" classname="PrimeFactorsCalculatorTest" time="0.09"/>
+  <testcase name="product of third prime" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="product of primes" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="product of first prime" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="cube of a prime" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="no factors" classname="PrimeFactorsCalculatorTest" time="0.004"/>
+  <testcase name="product of primes and non-primes" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="prime number" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="square of a prime" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="product of first and second prime" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="another prime number" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="factors include a large prime" classname="PrimeFactorsCalculatorTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

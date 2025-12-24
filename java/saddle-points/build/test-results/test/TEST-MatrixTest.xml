@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-11-19T14:58:51" hostname="ENDAUTOEFRLSBQC" time="0.079">
+  <properties/>
+  <testcase name="Can identify multiple saddle points in a column" classname="MatrixTest" time="0.061"/>
+  <testcase name="Can identify that empty matrix has no saddle points" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify saddle point in bottom right corner" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify multiple saddle points in a Row" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify saddle points in a non square matrix" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify that saddle points in a single row matrix are those with the maximum value" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify lack of saddle points when there are none" classname="MatrixTest" time="0.001"/>
+  <testcase name="Can identify single saddle point" classname="MatrixTest" time="0.0"/>
+  <testcase name="Can identify that saddle points in a single column matrix are those with the minimum value" classname="MatrixTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NucleotideCounterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-18T12:45:30" hostname="ENDAUTOEFRLSBQC" time="0.072">
+  <properties/>
+  <testcase name="can count one nucleotide in single-character input" classname="NucleotideCounterTest" time="0.056"/>
+  <testcase name="strand with multiple nucleotides" classname="NucleotideCounterTest" time="0.001"/>
+  <testcase name="empty strand" classname="NucleotideCounterTest" time="0.002"/>
+  <testcase name="strand with invalid nucleotides" classname="NucleotideCounterTest" time="0.003"/>
+  <testcase name="strand with repeated nucleotide" classname="NucleotideCounterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

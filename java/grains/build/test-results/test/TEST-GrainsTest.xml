@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrainsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-10-14T11:15:49" hostname="ENDAUTOEFRLSBQC" time="0.085">
+  <properties/>
+  <testcase name="grains on square 16" classname="GrainsTest" time="0.037"/>
+  <testcase name="grains on square 32" classname="GrainsTest" time="0.001"/>
+  <testcase name="grains on square 64" classname="GrainsTest" time="0.001"/>
+  <testcase name="square greater than 64 is invalid" classname="GrainsTest" time="0.024"/>
+  <testcase name="negative square is invalid" classname="GrainsTest" time="0.001"/>
+  <testcase name="returns the number of grains on the square" classname="GrainsTest" time="0.002"/>
+  <testcase name="grains on square 2" classname="GrainsTest" time="0.001"/>
+  <testcase name="grains on square 3" classname="GrainsTest" time="0.001"/>
+  <testcase name="grains on square 4" classname="GrainsTest" time="0.002"/>
+  <testcase name="square 0 is invalid" classname="GrainsTest" time="0.002"/>
+  <testcase name="returns the total number of grains on the board" classname="GrainsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

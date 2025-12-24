@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestApiTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-11-20T13:37:08" hostname="ENDAUTOEFRLSBQC" time="0.157">
+  <properties/>
+  <testcase name="lender owes borrower less than new loan" classname="RestApiTest" time="0.097"/>
+  <testcase name="lender owes borrower same as new loan" classname="RestApiTest" time="0.001"/>
+  <testcase name="both users have 0 balance" classname="RestApiTest" time="0.003"/>
+  <testcase name="lender has negative balance" classname="RestApiTest" time="0.004"/>
+  <testcase name="get single user" classname="RestApiTest" time="0.001"/>
+  <testcase name="lender owes borrower" classname="RestApiTest" time="0.003"/>
+  <testcase name="borrower has negative balance" classname="RestApiTest" time="0.004"/>
+  <testcase name="no users" classname="RestApiTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

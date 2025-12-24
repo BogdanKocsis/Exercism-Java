@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProverbTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-19T14:21:32" hostname="ENDAUTOEFRLSBQC" time="0.082">
+  <properties/>
+  <testcase name="three pieces" classname="ProverbTest" time="0.071"/>
+  <testcase name="full proverb" classname="ProverbTest" time="0.001"/>
+  <testcase name="zero pieces" classname="ProverbTest" time="0.001"/>
+  <testcase name="one piece" classname="ProverbTest" time="0.001"/>
+  <testcase name="two pieces" classname="ProverbTest" time="0.001"/>
+  <testcase name="four pieces modernized" classname="ProverbTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

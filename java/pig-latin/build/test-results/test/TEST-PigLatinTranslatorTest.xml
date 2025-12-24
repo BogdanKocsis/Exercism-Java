@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PigLatinTranslatorTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2025-11-18T16:15:29" hostname="ENDAUTOEFRLSBQC" time="0.119">
+  <properties/>
+  <testcase name="y as second letter in two letter word" classname="PigLatinTranslatorTest" time="0.064"/>
+  <testcase name="a whole phrase" classname="PigLatinTranslatorTest" time="0.003"/>
+  <testcase name="word beginning with q without a following u" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with a" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with e" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with i" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with k" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with o" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with p" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with u" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with x" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with consonant and vowel containing qu" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="y is treated like a consonant at the beginning of a word" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with qu and a preceding consonant" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with a vowel and followed by a qu" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with th" classname="PigLatinTranslatorTest" time="0.002"/>
+  <testcase name="word beginning with sch" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with ch" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="y is treated like a vowel at the end of a consonant cluster" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with yt" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with qu" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with thr" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="word beginning with xr" classname="PigLatinTranslatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

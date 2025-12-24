@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoCountingTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-12-23T14:27:09.963Z" hostname="ENDAUTOEFRLSBQC" time="0.104">
+  <properties/>
+  <testcase name="Invalid because X is too high for 5x5 board" classname="GoCountingTest" time="0.069"/>
+  <testcase name="White center territory on 5x5 board" classname="GoCountingTest" time="0.008"/>
+  <testcase name="A stone and not a territory on 5x5 board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="Invalid because X is too low for 5x5 board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="Two region rectangular board" classname="GoCountingTest" time="0.008"/>
+  <testcase name="Invalid because Y is too low for 5x5 board" classname="GoCountingTest" time="0.002"/>
+  <testcase name="Black corner territory on 5x5 board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="Invalid because Y is too high for 5x5 board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="One territory is the whole board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="Open corner territory on 5x5 board" classname="GoCountingTest" time="0.001"/>
+  <testcase name="Two territory rectangular board" classname="GoCountingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

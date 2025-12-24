@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PangramCheckerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-10-14T12:49:09" hostname="ENDAUTOEFRLSBQC" time="0.076">
+  <properties/>
+  <testcase name="perfect lower case" classname="PangramCheckerTest" time="0.054"/>
+  <testcase name="with numbers" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="with underscores" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="only lower case" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="missing the letter 'x'" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="missing the letter 'h'" classname="PangramCheckerTest" time="0.002"/>
+  <testcase name="missing letters replaced by numbers" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="empty sentence" classname="PangramCheckerTest" time="0.002"/>
+  <testcase name="mixed case and punctuation" classname="PangramCheckerTest" time="0.002"/>
+  <testcase name="case insensitive" classname="PangramCheckerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

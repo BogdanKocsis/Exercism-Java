@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZipperTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-12-23T15:01:41.744Z" hostname="ENDAUTOEFRLSBQC" time="0.097">
+  <properties/>
+  <testcase name="set_right with null" classname="ZipperTest" time="0.067"/>
+  <testcase name="set_right with subtree" classname="ZipperTest" time="0.001"/>
+  <testcase name="tree from deep focus" classname="ZipperTest" time="0.002"/>
+  <testcase name="left, right, and up" classname="ZipperTest" time="0.002"/>
+  <testcase name="set_left with leaf" classname="ZipperTest" time="0.001"/>
+  <testcase name="set_value after traversing up" classname="ZipperTest" time="0.001"/>
+  <testcase name="test ability to descend multiple levels and return" classname="ZipperTest" time="0.001"/>
+  <testcase name="set_value on deep focus" classname="ZipperTest" time="0.001"/>
+  <testcase name="dead end" classname="ZipperTest" time="0.001"/>
+  <testcase name="left, right and value" classname="ZipperTest" time="0.001"/>
+  <testcase name="traversing up from top" classname="ZipperTest" time="0.002"/>
+  <testcase name="different paths to same zipper" classname="ZipperTest" time="0.0"/>
+  <testcase name="data is retained" classname="ZipperTest" time="0.001"/>
+  <testcase name="set_value" classname="ZipperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

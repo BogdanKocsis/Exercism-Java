@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeCalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-12-24T09:27:29.074Z" hostname="ENDAUTOEFRLSBQC" time="2.854">
+  <properties/>
+  <testcase name="find the largest palindrome from single digit factors" classname="PalindromeCalculatorTest" time="0.065"/>
+  <testcase name="error result for largest if min is more than max" classname="PalindromeCalculatorTest" time="0.004"/>
+  <testcase name="find the smallest palindrome from triple digit factors" classname="PalindromeCalculatorTest" time="0.028"/>
+  <testcase name="find the smallest palindrome from four digit factors" classname="PalindromeCalculatorTest" time="1.35"/>
+  <testcase name="find the largest palindrome from triple digit factors" classname="PalindromeCalculatorTest" time="0.013"/>
+  <testcase name="smallest product does not use the smallest factor" classname="PalindromeCalculatorTest" time="0.01"/>
+  <testcase name="error result for smallest if min is more than max" classname="PalindromeCalculatorTest" time="0.001"/>
+  <testcase name="find the largest palindrome from double digit factors" classname="PalindromeCalculatorTest" time="0.001"/>
+  <testcase name="empty result for smallest if no palindrome in the range" classname="PalindromeCalculatorTest" time="0.0"/>
+  <testcase name="find the largest palindrome from four digit factors" classname="PalindromeCalculatorTest" time="1.369"/>
+  <testcase name="empty result for largest if no palindrome in the range" classname="PalindromeCalculatorTest" time="0.001"/>
+  <testcase name="find the smallest palindrome from single digit factors" classname="PalindromeCalculatorTest" time="0.001"/>
+  <testcase name="find the smallest palindrome from double digit factors" classname="PalindromeCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

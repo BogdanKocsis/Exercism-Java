@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LedgerTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-11-18T11:57:44" hostname="ENDAUTOEFRLSBQC" time="0.098">
+  <properties/>
+  <testcase name="Dutch locale and euros" classname="LedgerTest" time="0.066"/>
+  <testcase name="empty ledger" classname="LedgerTest" time="0.001"/>
+  <testcase name="credit and debit" classname="LedgerTest" time="0.002"/>
+  <testcase name="euros" classname="LedgerTest" time="0.001"/>
+  <testcase name="Dutch negative number with 3 digits before decimal point" classname="LedgerTest" time="0.003"/>
+  <testcase name="American negative number with 3 digits before decimal point" classname="LedgerTest" time="0.001"/>
+  <testcase name="final order tie breaker is change" classname="LedgerTest" time="0.002"/>
+  <testcase name="Dutch locale" classname="LedgerTest" time="0.002"/>
+  <testcase name="multiple entries on same date ordered by description" classname="LedgerTest" time="0.002"/>
+  <testcase name="overlong description is truncated" classname="LedgerTest" time="0.002"/>
+  <testcase name="one entry" classname="LedgerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

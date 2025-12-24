@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlattenerTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2025-10-17T13:42:41" hostname="ENDAUTOEFRLSBQC" time="0.076">
+  <properties/>
+  <testcase name="6 level nest list with null values" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="flattens a nested array" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="flattens array with just integers present" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="no nesting" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="empty" classname="FlattenerTest" time="0.062"/>
+  <testcase name="5 level nesting" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="consecutive null values in the middle of the list are omitted from the final result" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="all values in nested list are null" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="null values are omitted from the final result" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="consecutive null values at the front of the list are omitted from the final result" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="6 level nesting" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-10-14T14:17:49" hostname="ENDAUTOEFRLSBQC" time="0.071">
+  <properties/>
+  <testcase name="difference of squares 100" classname="DifferenceOfSquaresCalculatorTest" time="0.05"/>
+  <testcase name="square of sum 1" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="square of sum 100" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="difference of squares 1" classname="DifferenceOfSquaresCalculatorTest" time="0.002"/>
+  <testcase name="sum of squares 100" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="square of sum 5" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="difference of squares 5" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="sum of squares 1" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <testcase name="sum of squares 5" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
