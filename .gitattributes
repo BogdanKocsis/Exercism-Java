@@ -1,3 +1,10 @@
+# Count only Java as source
+*.java linguist-detectable
+
+# Treat everything else as non-detectable for language stats
+* -linguist-detectable
+*.java linguist-detectable
+
 # Keep only Java source files in GitHub language stats
 *.java linguist-detectable=true
 
